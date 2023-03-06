@@ -1,2 +1,1 @@
-# Repositorio-de-prueba
-Este repositorio es para ensallo mio 
+Este proyecto es un ensayo mio para trabajar el archivo desde mi pc 
